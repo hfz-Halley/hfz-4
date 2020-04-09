@@ -1,0 +1,2 @@
+/home/hfz/Templates/coreappliction/rx-application/MobileServer/obj/Linux/armv7l/debug_static/signalManager.o /home/hfz/Templates/coreappliction/rx-application/MobileServer/obj/Linux/armv7l/release_static/signalManager.o /home/hfz/Templates/coreappliction/rx-application/MobileServer/obj/Linux/armv7l/debug_shared/signalManager.o /home/hfz/Templates/coreappliction/rx-application/MobileServer/obj/Linux/armv7l/release_shared/signalManager.o: src/signalManager.cpp \
+ /home/hfz/Templates/coreappliction/rx-application/MobileServer/include/Gobi4G/mobileSignal.h

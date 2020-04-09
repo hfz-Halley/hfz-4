@@ -1,0 +1,2 @@
+/home/hfz/Templates/coreappliction/rx-application/MobileServer/obj/Linux/armv7l/debug_static/net4Gcaller.o /home/hfz/Templates/coreappliction/rx-application/MobileServer/obj/Linux/armv7l/release_static/net4Gcaller.o /home/hfz/Templates/coreappliction/rx-application/MobileServer/obj/Linux/armv7l/debug_shared/net4Gcaller.o /home/hfz/Templates/coreappliction/rx-application/MobileServer/obj/Linux/armv7l/release_shared/net4Gcaller.o: src/net4Gcaller.cpp \
+ /home/hfz/Templates/coreappliction/rx-application/MobileServer/include/Gobi4G/net4Gcaller.h
